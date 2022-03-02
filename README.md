@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">programming is my hobby</h3>
+<h3 align="center">Programming is my hobby!</h3>
 
 ![snake gif](https://github.com/burak2202/burak2202/blob/output/github-contribution-grid-snake.gif)
 
