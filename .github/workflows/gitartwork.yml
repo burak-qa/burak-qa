@@ -1,0 +1,17 @@
+name: gitartwork from a contribution graph
+on: 
+  push:
+  pull_request:
+  schedule:
+    - cron: '* */24 * * *'
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jasineri/gitartwork@v1
+        with:
+           user_name:burak2202
+           text: BURAK
+      - uses: jasineri/simple-push-action@v1
