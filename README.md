@@ -1,3 +1,4 @@
+![gitartwork](gitartwork.svg)
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">Programming is my hobby!</h3>
 
