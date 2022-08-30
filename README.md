@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">I'm almost done with step definitions! </h3>
-<br/>
 <h3 align="center">Programming is my hobby! </h3>
 
 
@@ -12,7 +11,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=burak2202&label=Profile%20views&color=0e75b6&style=flat" alt="burak2202" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burak2202" alt="burak2202" /></a> </p>
+
 
 
 <p align="center">
