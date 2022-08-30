@@ -13,5 +13,5 @@ jobs:
       - uses: jasineri/gitartwork@v1
         with:
            user_name: burak2202
-           text: BURAk
+           text: BURAK
       - uses: jasineri/simple-push-action@v1
