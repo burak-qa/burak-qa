@@ -7,9 +7,9 @@
 <img src="https://camo.githubusercontent.com/1256f8b9a2509fbad8f65a76ceaa2c356ff0d1ab/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" alt="Coder GIF" data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="width:500px">
 </p>
 
-![snake gif](https://github.com/burak2202/burak2202/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/burak-qa/burak-qa/blob/output/github-contribution-grid-snake.gif)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=burak2202&label=Profile%20views&color=0e75b6&style=flat" alt="burak2202" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=burak-qa&label=Profile%20views&color=0e75b6&style=flat" alt="burak-qa" /> </p>
 
 
 
@@ -28,7 +28,7 @@
   <p align="center"> </a>  <a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" width="50" height="50"/> </a>  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="visualstudio" width="50" height="50"/> </a> <a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg" alt="eclipse" width="50" height="50"/> </a> <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="50" height="50"/> </a> <a href="https://www.mendix.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mendix_logo.svg" alt="mendix" width="130" height="60"/></p>
   <br/>
   
-  <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=burak2202&show_icons=true&locale=en&layout=compact" alt="burak2202" /></p>
+  <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=burak-qa&show_icons=true&locale=en&layout=compact" alt="burak-qa" /></p>
 
 
 
