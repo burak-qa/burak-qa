@@ -12,6 +12,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: jasineri/gitartwork@v1
         with:
-           user_name: burak2202
+           user_name: burak-qa
            text: BURAK
       - uses: jasineri/simple-push-action@v1
